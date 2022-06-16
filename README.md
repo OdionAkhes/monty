@@ -3,4 +3,5 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 
 # Authors
 <a href="https://github.com/OdionAkhes/">Odion Akhes</a>
+<br>
 <a href="https://github.com/Unique-Red">Noah Useghan</a>
